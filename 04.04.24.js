@@ -14,16 +14,6 @@ for(let i = 0; i < arr.length; i++) {
 
 //console.log(arr[0]+arr[2]);
 
-
-
-
-
-
-
-
-
-
-
 // let lastIndex= array.lenght -1;
 // console.log(lastIndex);
 // let el1 = array[0];
